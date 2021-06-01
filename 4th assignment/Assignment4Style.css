@@ -1,0 +1,46 @@
+body
+{
+    background-image:url("background-image2.jpg");
+    background-size:cover;
+    font-family: 'Poiret One', cursive;
+    font-style: italic;
+    font-weight:bold;
+}
+.div1
+{
+    display: inline-block; 
+    margin:0px 5px;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    font-style:normal;
+}
+.div2
+{
+    display:inline-block;
+
+    /*border*/
+    border: 2px solid black;
+
+    /*margin*/
+    margin:50px/*top & bottom*/ 80px /*left & right*/;
+
+    width:250px;
+    height:450px;
+   
+}
+.div3
+{
+    padding:5px;
+    font-size: 20px;
+}
+
+img
+{
+    width:250px;
+    height:250px;
+}
+button:hover {
+    background-color: #5c5457;
+    color: white;
+  }
+  
